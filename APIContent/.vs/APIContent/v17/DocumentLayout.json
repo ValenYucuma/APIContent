@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\analista2\\source\\repos\\APIContent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEFA7EE-8969-49FA-A6FF-70F900E82462}|APIContent\\APIContent.csproj|c:\\users\\analista2\\source\\repos\\apicontent\\apicontent\\controllers\\worddocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEFA7EE-8969-49FA-A6FF-70F900E82462}|APIContent\\APIContent.csproj|solutionrelative:apicontent\\controllers\\worddocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEFA7EE-8969-49FA-A6FF-70F900E82462}|APIContent\\APIContent.csproj|c:\\users\\analista2\\source\\repos\\apicontent\\apicontent\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EEFA7EE-8969-49FA-A6FF-70F900E82462}|APIContent\\APIContent.csproj|solutionrelative:apicontent\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEFA7EE-8969-49FA-A6FF-70F900E82462}|APIContent\\APIContent.csproj|c:\\users\\analista2\\source\\repos\\apicontent\\apicontent\\apicontent.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3EEFA7EE-8969-49FA-A6FF-70F900E82462}|APIContent\\APIContent.csproj|solutionrelative:apicontent\\apicontent.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEFA7EE-8969-49FA-A6FF-70F900E82462}|APIContent\\APIContent.csproj|c:\\users\\analista2\\source\\repos\\apicontent\\apicontent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEFA7EE-8969-49FA-A6FF-70F900E82462}|APIContent\\APIContent.csproj|solutionrelative:apicontent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 40,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIContent.http",
+              "DocumentMoniker": "C:\\Users\\analista2\\source\\repos\\APIContent\\APIContent\\APIContent.http",
+              "RelativeDocumentMoniker": "APIContent\\APIContent.http",
+              "ToolTip": "C:\\Users\\analista2\\source\\repos\\APIContent\\APIContent\\APIContent.http",
+              "RelativeToolTip": "APIContent\\APIContent.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-10T06:12:52.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\analista2\\source\\repos\\APIContent\\APIContent\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIContent\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\analista2\\source\\repos\\APIContent\\APIContent\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIContent\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T05:46:48.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordDocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\analista2\\source\\repos\\APIContent\\APIContent\\Controllers\\WordDocumentController.cs",
+              "RelativeDocumentMoniker": "APIContent\\Controllers\\WordDocumentController.cs",
+              "ToolTip": "C:\\Users\\analista2\\source\\repos\\APIContent\\APIContent\\Controllers\\WordDocumentController.cs",
+              "RelativeToolTip": "APIContent\\Controllers\\WordDocumentController.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAgwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T04:46:55.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\analista2\\source\\repos\\APIContent\\APIContent\\Program.cs",
+              "RelativeDocumentMoniker": "APIContent\\Program.cs",
+              "ToolTip": "C:\\Users\\analista2\\source\\repos\\APIContent\\APIContent\\Program.cs",
+              "RelativeToolTip": "APIContent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T04:37:48.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 305,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
