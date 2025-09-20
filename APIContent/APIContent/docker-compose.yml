@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+  apicontent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: apicontent
+    restart: always
+    ports:
+      - "5000:8080" # La API escucha en el puerto 5000 del VPS
+    networks:
+      - web
+
+networks:
+  web:
+    external: false
