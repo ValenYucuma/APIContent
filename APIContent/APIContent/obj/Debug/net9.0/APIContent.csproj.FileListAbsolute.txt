@@ -1,8 +1,0 @@
-C:\Users\analista2\source\repos\APIContent\APIContent\obj\Debug\net9.0\APIContent.csproj.AssemblyReference.cache
-C:\Users\analista2\source\repos\APIContent\APIContent\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\analista2\source\repos\APIContent\APIContent\obj\Debug\net9.0\APIContent.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\analista2\source\repos\APIContent\APIContent\obj\Debug\net9.0\APIContent.AssemblyInfoInputs.cache
-C:\Users\analista2\source\repos\APIContent\APIContent\obj\Debug\net9.0\APIContent.AssemblyInfo.cs
-C:\Users\analista2\source\repos\APIContent\APIContent\obj\Debug\net9.0\APIContent.csproj.CoreCompileInputs.cache
-C:\Users\analista2\source\repos\APIContent\APIContent\obj\Debug\net9.0\APIContent.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\analista2\source\repos\APIContent\APIContent\obj\Debug\net9.0\APIContent.MvcApplicationPartsAssemblyInfo.cache
