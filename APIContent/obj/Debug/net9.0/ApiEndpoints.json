@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "APIContent.Controllers.HealthController",
+    "Method": "Get",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIContent.Controllers.WordDocumentController",
+    "Method": "InsertarHeaderFooter",
+    "RelativePath": "api/WordDocument/insertar-header-footer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "APIContent.Controllers.WordDocumentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIContent.Controllers.WordDocumentController",
+    "Method": "ObtenerArchivo",
+    "RelativePath": "api/WordDocument/obtener-archivo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "APIContent.Controllers.RutaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

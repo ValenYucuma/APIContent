@@ -1,0 +1,151 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "APIContent",
+    "version": "1.0"
+  },
+  "paths": {
+    "/": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/WordDocument/insertar-header-footer": {
+      "post": {
+        "tags": [
+          "WordDocument"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/WordDocumentRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/WordDocumentRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/WordDocumentRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/WordDocument/obtener-archivo": {
+      "post": {
+        "tags": [
+          "WordDocument"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RutaRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RutaRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RutaRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "RutaRequest": {
+        "type": "object",
+        "properties": {
+          "ruta": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WordDocumentRequest": {
+        "type": "object",
+        "properties": {
+          "archivoBase64": {
+            "type": "string",
+            "nullable": true
+          },
+          "imagenBase64": {
+            "type": "string",
+            "nullable": true
+          },
+          "codigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "version": {
+            "type": "string",
+            "nullable": true
+          },
+          "pagina": {
+            "type": "string",
+            "nullable": true
+          },
+          "elaboro": {
+            "type": "string",
+            "nullable": true
+          },
+          "reviso": {
+            "type": "string",
+            "nullable": true
+          },
+          "aprobo": {
+            "type": "string",
+            "nullable": true
+          },
+          "fechaElaboro": {
+            "type": "string",
+            "nullable": true
+          },
+          "fechaReviso": {
+            "type": "string",
+            "nullable": true
+          },
+          "fechaAprobo": {
+            "type": "string",
+            "nullable": true
+          },
+          "tituloDocumento": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

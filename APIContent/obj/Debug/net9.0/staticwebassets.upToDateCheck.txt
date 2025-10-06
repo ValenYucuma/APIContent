@@ -1,0 +1,2 @@
+wwwroot\Plantillas\footer.jpeg
+wwwroot\Plantillas\header.jpeg
